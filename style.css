@@ -11,6 +11,8 @@ body {
     height: 100vh;
 }
 
+/* background color in taskbar is selected using eye dropper tool by inspect element.  */
+
 .taskbar {
     background-color: #f3f3f3;
     width: 100%;
